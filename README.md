@@ -67,14 +67,7 @@ Ravi didn’t stop working — the world stopped him.
 <hr>
 
 <h2>🔄 Workflow</h2>
-<ol>
-    <li>Onboarding</li>
-    <li>Policy Configuration</li>
-    <li>Issuance</li>
-    <li>Monitoring</li>
-    <li>Claims</li>
-    <li>Payout</li>
-</ol>
+
 
 <img src="https://github.com/pavithra2305-ops/gigshield-hub/blob/6cb0096e7d3ad3ae9c24ad938df717073d81c3ac/Guide%20wire%20(1).png" width="850">
 
