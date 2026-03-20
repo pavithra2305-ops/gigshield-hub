@@ -6,7 +6,7 @@
 
 <img src="assets/banner.svg" alt="Income Shield AI Banner" width="100%"/>
 
-# 🚀 Income Shield AI — Parametric Insurance for India's Gig Workforce
+
 
 > *"Earn weekly. Pay weekly. Stay protected weekly."*
 
@@ -44,6 +44,8 @@ Currently, gig workers have **zero income protection** against these uncontrolla
 ---
 
 ## 💡 Our Solution
+
+<img src="https://github.com/pavithra2305-ops/gigshield-hub/blob/f61f8d43118bb3164be6f105a1c0ff5435888d48/Guide%20wire%20(1).png" width="700">
 
 **Income Shield AI** is an AI-driven parametric income protection platform that models **real-time earning behavior** — computing exact income deviation for precise, context-aware payouts instead of just insuring events.
 
