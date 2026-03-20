@@ -119,10 +119,13 @@ Weekly Premium = Base Rate + (Location Risk × 0.35) + (Disruption Probability �
 
 <h2>✨ Key Features</h2>
 <ul>
-    <li>Smart GPS & Fraud Prevention</li>
-    <li>24/7 Emergency Alerts & Instant Payouts</li>
-    <li>AI Fraud Detection with anomaly checks</li>
-    <li>Unified dashboards for all users</li>
+    📍 GPS Tracking with Fraud Prevention: Real-time location tracking with device authentication, IP checks, and cell tower validation to prevent spoofing and detect abnormal movement.
+
+⏰ 24/7 Emergency Support: Continuous monitoring of disruptions with automatic claim triggering and fast payout processing.
+
+🤖 AI Fraud Detection: Detects anomalous behavior using AI models and validates claims with multi-source data (weather + location APIs).
+
+📊 Dashboard Analytics: Real-time insights on claims, payouts, and worker activity for better decision-making.
 </ul>
 
 <hr>
