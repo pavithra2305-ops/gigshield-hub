@@ -165,6 +165,8 @@ Weekly Premium = Base Rate + (Location Risk × 0.35) + (Disruption Probability �
 
 <hr>
 
+<img src="https://github.com/pavithra2305-ops/gigshield-hub/blob/51660c57086ed786a59d1540ea402f8f989c7640/image.png" width="850">
+
 <h2>📌 Conclusion</h2>
 <p>
 If external conditions stop workers from earning, GigShield ensures their income does not stop.
