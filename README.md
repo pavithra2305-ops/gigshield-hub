@@ -41,6 +41,8 @@ Designed not just for scale, but for resilience, our system proactively defends 
 
 <hr>
 
+
+
 <h2>👤 Persona</h2>
 
 <p><b>Meet Ravi — the invisible engine of our on-demand economy.</b></p>
@@ -68,10 +70,22 @@ Ravi didn’t stop working — the world stopped him.
 
 <hr>
 
+
+
 <h2>🔄 Workflow</h2>
 
 
 <img src="https://github.com/pavithra2305-ops/gigshield-hub/blob/6cb0096e7d3ad3ae9c24ad938df717073d81c3ac/Guide%20wire%20(1).png" width="850">
+<p><b>The workflow operates across 6 key phases:</b></p>
+
+<ul>
+    <li><b>Onboarding:</b> KYC verification, AI-based risk scoring, and guided coverage selection</li>
+    <li><b>Policy Configuration:</b> AI defines trigger thresholds and calculates dynamic premiums</li>
+    <li><b>Issuance:</b> Policy terms are securely recorded in a digital ledger</li>
+    <li><b>Monitoring:</b> Real-time data streams continuously track disruption conditions</li>
+    <li><b>Claims:</b> Automated claim triggering with multi-source validation and fraud checks</li>
+    <li><b>Payout:</b> Instant compensation with a transparent audit trail</li>
+</ul>
 
 
 
