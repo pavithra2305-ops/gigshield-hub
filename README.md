@@ -524,7 +524,7 @@ The system only pays when an **external, measurable, zone-level event** causes i
 
 ---
 
-## 👥 Team InnovateIT
+
 
 | Name | Role |
 |------|------|
