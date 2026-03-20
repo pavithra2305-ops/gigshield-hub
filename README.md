@@ -11,7 +11,7 @@ India’s gig delivery workers power our on-demand economy—but when extreme we
 
 <h2>💡 Our Solution</h2>
 
-<img src="https://github.com/pavithra2305-ops/gigshield-hub/blob/cf5631bae88630f61cf7cca51e2901eb0d114c53/WeeklyPricing%20(1).png" width="900">
+<img src="https://github.com/pavithra2305-ops/gigshield-hub/blob/cf5631bae88630f61cf7cca51e2901eb0d114c53/WeeklyPricing%20(1).png" width="600">
 
 <p><b>We don’t insure events — we insure income itself.</b></p>
 
